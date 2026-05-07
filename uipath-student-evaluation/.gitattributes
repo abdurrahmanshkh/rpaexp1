@@ -1,4 +1,0 @@
-*.xaml text eol=crlf
-*.json text eol=crlf
-*.md text eol=lf
-*.gitignore text eol=lf
