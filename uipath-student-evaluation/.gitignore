@@ -1,0 +1,22 @@
+# UiPath / Studio generated files
+.local/
+.history/
+.screenshots/
+.settings/
+.project/
+.nuget/
+*.user
+*.suo
+*.nupkg
+*.log
+
+# Build artifacts
+bin/
+obj/
+packages/
+TestResults/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/

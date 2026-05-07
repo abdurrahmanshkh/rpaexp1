@@ -1,0 +1,6 @@
+{
+  "Name": "StudentInformationEvaluator",
+  "ProjectType": "Process",
+  "Description": "A simple UiPath process that evaluates student marks and displays name, marks, pass status, and final result.",
+  "MainFile": "Main.xaml"
+}
